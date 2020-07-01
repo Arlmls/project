@@ -8,7 +8,7 @@
   <name>transfer Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>  
-        <quartz.version>2.2.2</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <httpclient.version>4.3.2</httpclient.version>  
   </properties> 
   <dependencies>
